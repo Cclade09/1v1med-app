@@ -147,7 +147,7 @@ const ResultsPage: React.FC<ResultsPageProps> = ({ room, currentUser, onBackToHo
             </div>
           </div>
 
-          <div style={playerCardStyle(opponent && room.winner === opponent.id)}>
+          <div style={playerCardStyle(!!(opponent && room.winner === opponent.id))}>
             <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
               <div style={avatarStyle('#7c3aed')}>
                 {opponent ? opponent.username.charAt(0).toUpperCase() : '?'}

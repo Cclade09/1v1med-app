@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { io, Socket } from 'socket.io-client';
+import io from 'socket.io-client';
+import type { Socket } from 'socket.io-client';
 import HomePage from './pages/HomePage';
 import LobbyPage from './pages/LobbyPage';
 import DuelPage from './pages/DuelPage';
@@ -7,7 +8,7 @@ import ResultsPage from './pages/ResultsPage';
 import { GameState, Room, User } from './types';
 
 const App: React.FC = () => {
-  const [socket, setSocket] = useState<Socket | null>(null);
+  const [socket, setSocket] = useState<any | null>(null);
   const [gameState, setGameState] = useState<GameState>({
     room: null,
     currentUser: null,
@@ -19,7 +20,6 @@ const App: React.FC = () => {
     const serverUrl = process.env.REACT_APP_SERVER_URL || 'http://localhost:3001';
     console.log('Connecting to server:', serverUrl);
     const newSocket = io(serverUrl, {
-      withCredentials: true,
       transports: ['websocket', 'polling']
     });
     setSocket(newSocket);
