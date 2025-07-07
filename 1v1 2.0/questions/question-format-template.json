@@ -1,0 +1,441 @@
+{
+  "topics": {
+    "behavioural_sciences": {
+      "display_name": "Behavioural Sciences",
+      "questions": [
+        {
+          "id": "bs_001",
+          "topic": "behavioural_sciences",
+          "difficulty": 3,
+          "question": "A 45-year-old patient consistently arrives late to appointments and becomes defensive when confronted. According to psychodynamic theory, this behavior most likely represents which defense mechanism?",
+          "options": {
+            "A": "Projection",
+            "B": "Rationalization",
+            "C": "Passive-aggressive behavior",
+            "D": "Displacement",
+            "E": "Reaction formation"
+          },
+          "correct_answer": "C",
+          "explanation": "Passive-aggressive behavior involves indirect expression of hostility through actions like chronic lateness rather than direct confrontation."
+        },
+        {
+          "id": "bs_002",
+          "topic": "behavioural_sciences",
+          "difficulty": 2,
+          "question": "In classical conditioning, the process by which a conditioned response decreases when the conditioned stimulus is repeatedly presented without the unconditioned stimulus is called:",
+          "options": {
+            "A": "Habituation",
+            "B": "Extinction",
+            "C": "Spontaneous recovery",
+            "D": "Generalization",
+            "E": "Discrimination"
+          },
+          "correct_answer": "B",
+          "explanation": "Extinction occurs when the conditioned stimulus is presented repeatedly without the unconditioned stimulus, leading to a decrease in the conditioned response."
+        }
+      ]
+    },
+    "biochemistry": {
+      "display_name": "Biochemistry",
+      "questions": [
+        {
+          "id": "bc_001",
+          "topic": "biochemistry",
+          "difficulty": 4,
+          "question": "A patient presents with lactic acidosis. Which enzyme deficiency in the citric acid cycle would most directly lead to increased lactate production?",
+          "options": {
+            "A": "Pyruvate dehydrogenase",
+            "B": "Citrate synthase",
+            "C": "Isocitrate dehydrogenase",
+            "D": "α-ketoglutarate dehydrogenase",
+            "E": "Succinate dehydrogenase"
+          },
+          "correct_answer": "A",
+          "explanation": "Pyruvate dehydrogenase deficiency prevents pyruvate from entering the citric acid cycle, causing it to be converted to lactate instead."
+        },
+        {
+          "id": "bc_002",
+          "topic": "biochemistry",
+          "difficulty": 3,
+          "question": "Which amino acid is both glucogenic and ketogenic?",
+          "options": {
+            "A": "Leucine",
+            "B": "Phenylalanine",
+            "C": "Valine",
+            "D": "Glycine",
+            "E": "Lysine"
+          },
+          "correct_answer": "B",
+          "explanation": "Phenylalanine can be metabolized to both fumarate (glucogenic) and acetoacetate (ketogenic), making it both glucogenic and ketogenic."
+        }
+      ]
+    },
+    "embryology": {
+      "display_name": "Embryology",
+      "questions": [
+        {
+          "id": "em_001",
+          "topic": "embryology",
+          "difficulty": 3,
+          "question": "A newborn presents with a midline defect in the anterior abdominal wall with herniation of abdominal contents covered by a membrane. This condition most likely resulted from failure of:",
+          "options": {
+            "A": "Lateral body wall folding",
+            "B": "Cranial body wall folding",
+            "C": "Caudal body wall folding",
+            "D": "Neural tube closure",
+            "E": "Septum transversum formation"
+          },
+          "correct_answer": "A",
+          "explanation": "Omphalocele results from failure of lateral body wall folding during the 4th week of development, leading to herniation of abdominal contents covered by amnion."
+        }
+      ]
+    },
+    "genetics": {
+      "display_name": "Genetics",
+      "questions": [
+        {
+          "id": "gen_001",
+          "topic": "genetics",
+          "difficulty": 2,
+          "question": "A couple has a child with cystic fibrosis. Neither parent is affected. What is the probability that their next child will be a carrier?",
+          "options": {
+            "A": "25%",
+            "B": "50%",
+            "C": "75%",
+            "D": "100%",
+            "E": "0%"
+          },
+          "correct_answer": "B",
+          "explanation": "In autosomal recessive inheritance with carrier parents, there's a 25% chance of affected, 50% chance of carrier, and 25% chance of unaffected non-carrier."
+        }
+      ]
+    },
+    "immunology": {
+      "display_name": "Immunology",
+      "questions": [
+        {
+          "id": "im_001",
+          "topic": "immunology",
+          "difficulty": 3,
+          "question": "Which cytokine is primarily responsible for class switching to IgE in B cells?",
+          "options": {
+            "A": "IL-2",
+            "B": "IL-4",
+            "C": "IL-6",
+            "D": "IFN-γ",
+            "E": "IL-13"
+          },
+          "correct_answer": "B",
+          "explanation": "IL-4 induces class switching to IgE in B cells, which is important in allergic responses and parasitic infections."
+        }
+      ]
+    },
+    "microbiology": {
+      "display_name": "Microbiology",
+      "questions": [
+        {
+          "id": "mb_001",
+          "topic": "microbiology",
+          "difficulty": 3,
+          "question": "A patient with AIDS presents with ring-enhancing brain lesions on MRI. The most likely causative organism is:",
+          "options": {
+            "A": "Cryptococcus neoformans",
+            "B": "Toxoplasma gondii",
+            "C": "JC virus",
+            "D": "Mycobacterium tuberculosis",
+            "E": "Primary CNS lymphoma"
+          },
+          "correct_answer": "B",
+          "explanation": "Toxoplasma gondii is the most common cause of ring-enhancing brain lesions in AIDS patients, typically presenting as cerebral toxoplasmosis."
+        }
+      ]
+    },
+    "pathology": {
+      "display_name": "Pathology",
+      "questions": [
+        {
+          "id": "path_001",
+          "topic": "pathology",
+          "difficulty": 4,
+          "question": "A biopsy shows cells with clear cytoplasm arranged in nests with prominent vasculature. Immunohistochemistry is positive for CD10 and vimentin. The most likely diagnosis is:",
+          "options": {
+            "A": "Chromophobe renal cell carcinoma",
+            "B": "Clear cell renal cell carcinoma",
+            "C": "Papillary renal cell carcinoma",
+            "D": "Oncocytoma",
+            "E": "Collecting duct carcinoma"
+          },
+          "correct_answer": "B",
+          "explanation": "Clear cell renal cell carcinoma characteristically shows clear cytoplasm (due to glycogen and lipids), is arranged in nests, and is positive for CD10 and vimentin."
+        }
+      ]
+    },
+    "pharmacology": {
+      "display_name": "Pharmacology",
+      "questions": [
+        {
+          "id": "pharm_001",
+          "topic": "pharmacology",
+          "difficulty": 3,
+          "question": "A patient on warfarin therapy begins treatment with trimethoprim-sulfamethoxazole. The most likely drug interaction mechanism is:",
+          "options": {
+            "A": "Induction of CYP2C9",
+            "B": "Inhibition of CYP2C9",
+            "C": "Displacement from plasma proteins",
+            "D": "Inhibition of vitamin K epoxide reductase",
+            "E": "Decreased gut absorption of warfarin"
+          },
+          "correct_answer": "B",
+          "explanation": "Trimethoprim-sulfamethoxazole inhibits CYP2C9, which metabolizes warfarin, leading to increased warfarin levels and bleeding risk."
+        }
+      ]
+    },
+    "statistics": {
+      "display_name": "Statistics",
+      "questions": [
+        {
+          "id": "stat_001",
+          "topic": "statistics",
+          "difficulty": 2,
+          "question": "In a study with a p-value of 0.03 and α = 0.05, which statement is correct?",
+          "options": {
+            "A": "There is a 3% chance the null hypothesis is true",
+            "B": "There is a 97% chance the alternative hypothesis is true",
+            "C": "If the null hypothesis is true, there's a 3% chance of obtaining these results or more extreme",
+            "D": "The study has 97% power",
+            "E": "Type II error rate is 3%"
+          },
+          "correct_answer": "C",
+          "explanation": "The p-value represents the probability of obtaining the observed results or more extreme if the null hypothesis is true."
+        }
+      ]
+    },
+    "cardiovascular_system": {
+      "display_name": "Cardiovascular System",
+      "questions": [
+        {
+          "id": "cv_001",
+          "topic": "cardiovascular_system",
+          "difficulty": 4,
+          "question": "A patient presents with exertional dyspnea and a crescendo-decrescendo systolic murmur that increases with Valsalva maneuver. The most likely diagnosis is:",
+          "options": {
+            "A": "Aortic stenosis",
+            "B": "Hypertrophic cardiomyopathy",
+            "C": "Mitral regurgitation",
+            "D": "Ventricular septal defect",
+            "E": "Mitral valve prolapse"
+          },
+          "correct_answer": "B",
+          "explanation": "Hypertrophic cardiomyopathy produces a systolic murmur that increases with decreased preload (Valsalva), unlike aortic stenosis which decreases."
+        }
+      ]
+    },
+    "endocrine_system": {
+      "display_name": "Endocrine System",
+      "questions": [
+        {
+          "id": "endo_001",
+          "topic": "endocrine_system",
+          "difficulty": 3,
+          "question": "A patient with primary hyperparathyroidism would most likely have which laboratory finding pattern?",
+          "options": {
+            "A": "High Ca²⁺, High PO₄³⁻, High PTH",
+            "B": "High Ca²⁺, Low PO₄³⁻, High PTH",
+            "C": "Low Ca²⁺, High PO₄³⁻, High PTH",
+            "D": "High Ca²⁺, Low PO₄³⁻, Low PTH",
+            "E": "Low Ca²⁺, Low PO₄³⁻, Low PTH"
+          },
+          "correct_answer": "B",
+          "explanation": "Primary hyperparathyroidism causes elevated PTH, leading to hypercalcemia and hypophosphatemia due to increased renal phosphate excretion."
+        }
+      ]
+    },
+    "gastrointestinal_system": {
+      "display_name": "Gastrointestinal System",
+      "questions": [
+        {
+          "id": "gi_001",
+          "topic": "gastrointestinal_system",
+          "difficulty": 3,
+          "question": "A patient with chronic diarrhea has a positive Sudan stain. Which condition is most likely?",
+          "options": {
+            "A": "Celiac disease",
+            "B": "Lactose intolerance",
+            "C": "Chronic pancreatitis",
+            "D": "Irritable bowel syndrome",
+            "E": "Whipple's disease"
+          },
+          "correct_answer": "C",
+          "explanation": "Positive Sudan stain indicates fat in stool (steatorrhea), suggesting malabsorption due to pancreatic insufficiency in chronic pancreatitis."
+        }
+      ]
+    },
+    "haematology_oncology": {
+      "display_name": "Haematology and Oncology",
+      "questions": [
+        {
+          "id": "ho_001",
+          "topic": "haematology_oncology",
+          "difficulty": 4,
+          "question": "A patient with CML in chronic phase is started on imatinib. The primary mechanism of action is:",
+          "options": {
+            "A": "Inhibition of BCR-ABL tyrosine kinase",
+            "B": "Inhibition of JAK2 kinase",
+            "C": "Blockade of IL-2 receptor",
+            "D": "Inhibition of proteasome",
+            "E": "Inhibition of mTOR pathway"
+          },
+          "correct_answer": "A",
+          "explanation": "Imatinib specifically inhibits the BCR-ABL tyrosine kinase fusion protein that drives CML proliferation."
+        }
+      ]
+    },
+    "musculoskeletal_skin": {
+      "display_name": "Musculoskeletal System and Skin",
+      "questions": [
+        {
+          "id": "msk_001",
+          "topic": "musculoskeletal_skin",
+          "difficulty": 2,
+          "question": "A patient with psoriasis develops joint pain. X-ray shows 'pencil-in-cup' deformity. This finding is characteristic of:",
+          "options": {
+            "A": "Rheumatoid arthritis",
+            "B": "Psoriatic arthritis",
+            "C": "Osteoarthritis",
+            "D": "Gout",
+            "E": "Reactive arthritis"
+          },
+          "correct_answer": "B",
+          "explanation": "Pencil-in-cup deformity is a classic radiographic finding in psoriatic arthritis, showing erosion of the distal bone with expansion of the adjacent base."
+        }
+      ]
+    },
+    "neurological_system": {
+      "display_name": "Neurological System",
+      "questions": [
+        {
+          "id": "neuro_001",
+          "topic": "neurological_system",
+          "difficulty": 5,
+          "question": "A patient presents with vertical gaze palsy, convergence-retraction nystagmus, and light-near dissociation. The lesion is most likely located in:",
+          "options": {
+            "A": "Medial longitudinal fasciculus",
+            "B": "Dorsal midbrain",
+            "C": "Pontine tegmentum",
+            "D": "Medulla oblongata",
+            "E": "Cerebral peduncle"
+          },
+          "correct_answer": "B",
+          "explanation": "Parinaud syndrome results from dorsal midbrain lesions affecting the pretectal area, causing the classic triad described."
+        }
+      ]
+    },
+    "psychiatry": {
+      "display_name": "Psychiatry",
+      "questions": [
+        {
+          "id": "psych_001",
+          "topic": "psychiatry",
+          "difficulty": 3,
+          "question": "A patient on an SSRI develops confusion, hyperreflexia, clonus, and hyperthermia after starting a new medication. Which medication most likely caused this?",
+          "options": {
+            "A": "Propranolol",
+            "B": "Tramadol",
+            "C": "Gabapentin",
+            "D": "Lorazepam",
+            "E": "Linezolid"
+          },
+          "correct_answer": "B",
+          "explanation": "Tramadol has serotonergic properties and can cause serotonin syndrome when combined with SSRIs."
+        }
+      ]
+    },
+    "renal_system": {
+      "display_name": "Renal System",
+      "questions": [
+        {
+          "id": "renal_001",
+          "topic": "renal_system",
+          "difficulty": 4,
+          "question": "A patient with nephrotic syndrome has a renal biopsy showing diffuse capillary wall thickening with 'spike and dome' appearance on silver stain. The most likely diagnosis is:",
+          "options": {
+            "A": "Minimal change disease",
+            "B": "Membranous nephropathy",
+            "C": "Focal segmental glomerulosclerosis",
+            "D": "IgA nephropathy",
+            "E": "Membranoproliferative glomerulonephritis"
+          },
+          "correct_answer": "B",
+          "explanation": "Membranous nephropathy shows subepithelial deposits creating the characteristic 'spike and dome' pattern on silver stain."
+        }
+      ]
+    },
+    "reproductive_system": {
+      "display_name": "Reproductive System",
+      "questions": [
+        {
+          "id": "repro_001",
+          "topic": "reproductive_system",
+          "difficulty": 3,
+          "question": "A woman with amenorrhea has elevated FSH and LH levels. The most likely diagnosis is:",
+          "options": {
+            "A": "Polycystic ovary syndrome",
+            "B": "Hypothalamic amenorrhea",
+            "C": "Primary ovarian insufficiency",
+            "D": "Prolactinoma",
+            "E": "Sheehan syndrome"
+          },
+          "correct_answer": "C",
+          "explanation": "Primary ovarian insufficiency (premature ovarian failure) leads to low estrogen with compensatory elevation of FSH and LH."
+        }
+      ]
+    },
+    "respiratory_system": {
+      "display_name": "Respiratory System",
+      "questions": [
+        {
+          "id": "resp_001",
+          "topic": "respiratory_system",
+          "difficulty": 3,
+          "question": "A patient with COPD has an FEV1/FVC ratio of 0.65 and shows improvement of FEV1 by 15% after bronchodilator. This indicates:",
+          "options": {
+            "A": "Pure emphysema",
+            "B": "Asthma-COPD overlap",
+            "C": "Restrictive lung disease",
+            "D": "Fixed airway obstruction",
+            "E": "Alpha-1 antitrypsin deficiency"
+          },
+          "correct_answer": "B",
+          "explanation": "Significant bronchodilator response (>12% and >200mL improvement in FEV1) in a COPD patient suggests asthma-COPD overlap syndrome."
+        }
+      ]
+    }
+  },
+  "question_format_notes": {
+    "required_fields": {
+      "id": "Unique identifier for the question (topic_abbreviation_number)",
+      "topic": "Must match one of the defined topics (use underscore format)",
+      "difficulty": "Integer from 1 (easiest) to 5 (hardest)",
+      "question": "The question text",
+      "options": "Object with keys A, B, C, D, E containing the answer choices",
+      "correct_answer": "Single letter (A, B, C, D, or E)",
+      "explanation": "Brief explanation of why the correct answer is right"
+    },
+    "formatting_guidelines": [
+      "Questions should be clinical vignettes when appropriate",
+      "Include relevant lab values with units",
+      "Use standard medical abbreviations",
+      "Options should be parallel in structure",
+      "Explanations should be educational, not just stating the answer",
+      "Avoid 'all of the above' or 'none of the above' options",
+      "Make all options plausible to avoid obvious answers"
+    ],
+    "difficulty_scale": {
+      "1": "Basic recall - simple facts or definitions",
+      "2": "Understanding - requires comprehension of concepts",
+      "3": "Application - applying knowledge to clinical scenarios",
+      "4": "Analysis - complex problem solving or differential diagnosis",
+      "5": "Synthesis - integrating multiple concepts or systems"
+    }
+  }
+}
